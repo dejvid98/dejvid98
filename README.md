@@ -9,6 +9,5 @@
 </div>
 <br>
 <br>
-<h2 align="center">Languages and tools</h2>
 
 
