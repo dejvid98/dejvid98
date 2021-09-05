@@ -3,7 +3,7 @@
 
 <div><h3>- 🔭 I’m currently working on open-source learning platform</h3>
 </div>
-<div><h3>- 🌱 I’m currently learning C#/.NET</h3>
+<div><h3>- 📚 I’m currently learning Java</h3>
 </div>
 <div><h3>- 👯 I’m looking to collaborate on open-source projects</h3>
 </div>
